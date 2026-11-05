@@ -4,13 +4,13 @@
 
 Maybe My Studio(개인 개발자 이성진, 이하 “운영자”)는 Shadow Marble(이하 “앱”)에서 처리되는 정보와 이용자의 선택권을 다음과 같이 안내합니다.
 
-개인정보 보호 담당자: 이성진
+개인정보 보호 담당자(Privacy Officer / Data Protection Officer): 이성진
 
 문의 및 권리 행사: [maybemyportfolio@gmail.com](mailto:maybemyportfolio@gmail.com)
 
 ## 1. 적용 범위
 
-앱은 대한민국을 우선 출시 대상으로 하며, 서비스 이용 가능 연령은 만 14세 이상입니다. 스토어 콘텐츠 등급은 게임 내용에 대한 별도 등급으로, 서비스의 최소 이용 연령과 구별됩니다.
+앱의 출시 대상 국가는 대한민국, 호주, 뉴질랜드, 싱가포르이며, 서비스 이용 가능 연령은 만 14세 이상입니다. 스토어 콘텐츠 등급은 게임 내용에 대한 별도 등급으로, 서비스의 최소 이용 연령과 구별됩니다.
 
 이 방침은 앱의 게임 기능, Google AdMob 광고 및 운영자에게 보내는 문의에 적용됩니다. 현재 앱은 별도 회원가입, 로그인, 운영자 서버를 통한 게임 저장, 채팅, 인앱 결제 기능을 제공하지 않습니다. Unity Analytics와 별도 클라우드 오류 보고 서비스도 사용하지 않습니다. 다만 광고 SDK에 의한 정보 처리는 아래와 같이 이루어지므로, 앱이 개인정보를 전혀 수집·전송하지 않는 것은 아닙니다.
 
@@ -54,9 +54,24 @@ Google이 처리하는 정보의 보관·삭제는 정보 종류와 목적에 �
 
 Android의 광고·개인정보 설정에서는 운영체제 버전에 따라 광고 ID 삭제·재설정 등 선택을 할 수 있습니다. [Google 광고 설정](https://myadcenter.google.com/)도 확인할 수 있습니다. 이러한 선택은 모든 광고나 모든 진단·보안 정보 처리를 중단시키는 기능과 같지 않습니다. 현재 앱 자체에는 별도의 광고 동의 변경 화면이 제공되지 않습니다.
 
+### 국가별 권리 및 고충 처리
+
+대한민국, 호주, 뉴질랜드, 싱가포르 이용자는 각 국가의 적용 가능한 개인정보 보호 법령에 따른 권리를 행사할 수 있습니다. 열람·정정·삭제, 처리 정지 또는 동의 철회 요청은 법령상 인정되는 범위와 예외에 따라 처리합니다. 동의 철회가 관련 기능 이용에 영향을 주는 경우 그 영향을 안내하며, 철회 이전의 적법한 처리는 영향을 받지 않습니다.
+
+운영자에게 보내는 요청이나 불만에는 관련 정보와 원하는 조치를 적어 위 이메일로 보내 주십시오. 운영자는 요청을 확인하고 해당 법령이 정한 기한 내에 결과 또는 지연 사유와 후속 절차를 안내합니다. 뉴질랜드의 열람·정정 요청에는 원칙적으로 20근무일 이내에 결정하며, 법률상 연장이 허용되면 그 사유와 기간을 안내합니다.
+
+운영자와 해결되지 않은 개인정보 문제는 관할과 법정 요건에 따라 아래 기관에 문의하거나 고충을 제기할 수 있습니다.
+
+- 대한민국: [개인정보보호위원회](https://www.pipc.go.kr/), [개인정보분쟁조정위원회](https://www.kopico.go.kr/)
+- 호주: [Office of the Australian Information Commissioner (OAIC)](https://www.oaic.gov.au/privacy/privacy-complaints)
+- 뉴질랜드: [Office of the Privacy Commissioner (OPC)](https://www.privacy.org.nz/your-rights/making-a-complaint/)
+- 싱가포르: [Personal Data Protection Commission (PDPC)](https://www.pdpc.gov.sg/)
+
+서비스 대상 국가와 실제 정보 처리 국가는 같지 않을 수 있습니다. 국외 이전에 관한 법령이 적용되는 경우 운영자는 해당 법령이 요구하는 이전 근거, 보호조치 및 고지·동의 절차를 갖추어야 합니다. 이 방침의 공개나 만 14세 이상 확인만으로 국외 이전에 대한 별도 동의를 받은 것으로 보지 않습니다.
+
 ## 6. 아동과 청소년
 
-앱은 만 14세 이상 이용자를 대상으로 합니다. 최초 실행 시 만 14세 미만 또는 만 14세 이상 중 자신의 연령 구간을 선택합니다. 만 14세 미만을 선택하거나 확인하지 않은 경우 게임을 시작할 수 없으며 광고 SDK를 초기화하거나 광고를 요청하지 않습니다. 만 14세 이상 확인 결과는 기기에 저장하여 다음 실행에 사용합니다. 연령 구간 선택은 본인확인이나 법정대리인 동의 절차가 아니며, 개인정보 처리에 필요한 별도 동의를 대체하지 않습니다.
+4개 출시 대상 국가 모두에서 앱의 최소 이용 연령은 만 14세입니다. 이는 서비스 이용 조건이며, 모든 국가에서 만 14세 이상이면 모든 개인정보 처리에 독립적으로 동의할 수 있다는 의미는 아닙니다. 관련 법령상 보호자 동의 또는 별도 동의가 필요한 경우 해당 요건이 적용됩니다. 최초 실행 시 만 14세 미만 또는 만 14세 이상 중 자신의 연령 구간을 선택합니다. 만 14세 미만을 선택하거나 확인하지 않은 경우 게임을 시작할 수 없으며 광고 SDK를 초기화하거나 광고를 요청하지 않습니다. 만 14세 이상 확인 결과는 기기에 저장하여 다음 실행에 사용합니다. 연령 구간 선택은 본인확인이나 법정대리인 동의 절차가 아니며, 개인정보 처리에 필요한 별도 동의를 대체하지 않습니다.
 
 만 14세 미만을 위한 보호자 동의 기반 이용 절차는 제공하지 않습니다. 아동의 개인정보 처리와 관련한 우려나 삭제 요청은 개인정보 보호 담당자에게 연락해 주십시오. 이용자는 스토어 이용 등급과 관련 법령도 따라야 합니다.
 
@@ -71,3 +86,13 @@ Android의 광고·개인정보 설정에서는 운영체제 버전에 따라 �
 처리 항목·목적 또는 사용 서비스가 변경되면 이 문서의 수정일과 내용을 갱신합니다. 이용자 권리에 중요한 영향을 미치는 변경은 적용 전에 앱 또는 스토어 공지 등 이용자가 확인할 수 있는 방법으로 안내하며, 별도 동의가 필요한 경우 해당 절차를 진행합니다.
 
 개인정보 문의: [maybemyportfolio@gmail.com](mailto:maybemyportfolio@gmail.com)
+
+## English summary
+
+Shadow Marble is offered by Maybe My Studio (individual developer Seongjin Lee) in South Korea, Australia, New Zealand and Singapore for users aged 14 and older. This is a summary of the Korean policy above.
+
+Game progress, collection, settings and the age confirmation are stored on your device. There is no app account, developer-hosted game-save server, chat or in-app purchase. Google AdMob may collect IP addresses, approximate location, advertising identifiers, ad interactions and diagnostic information to provide and measure ads, improve services and prevent fraud. Ads may be requested before you choose to watch a rewarded ad. Google may process information in the United States and other countries; see [Google's Privacy Policy](https://policies.google.com/privacy?hl=en) and [Mobile Ads SDK disclosures](https://developers.google.com/admob/android/privacy/play-data-disclosure).
+
+Device data can be removed through app-data deletion or uninstallation; operating-system backups are managed separately. Support emails are retained for the inquiry and necessary follow-up, subject to legal retention requirements. Uninstalling the app does not necessarily delete data already held by Google. Advertising settings do not stop every type of SDK processing. The app currently has no in-app advertising-consent management screen.
+
+For privacy questions, complaints, access, correction or other rights available under applicable law, contact Seongjin Lee, Privacy Officer / Data Protection Officer, at [maybemyportfolio@gmail.com](mailto:maybemyportfolio@gmail.com). You may also contact your competent privacy authority listed above, subject to its jurisdiction and complaint procedures. An age declaration is not identity verification, parental consent or consent to data processing or overseas transfers.

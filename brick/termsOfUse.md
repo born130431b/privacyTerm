@@ -10,7 +10,7 @@
 
 ## 2. 이용 조건
 
-앱은 대한민국을 우선 출시 대상으로 하며 만 14세 이상만 이용할 수 있습니다. 최초 실행에서 자신의 연령 구간을 사실대로 선택해야 합니다. 만 14세 미만이거나 연령을 확인하지 않으면 게임 이용과 광고 요청이 차단됩니다. 만 14세 이상 확인 여부는 기기에 저장합니다. 이 확인은 보호자 동의나 별도의 개인정보 처리 동의를 대신하지 않습니다. 스토어 콘텐츠 등급은 서비스의 최소 이용 연령과 별도로 정해집니다.
+앱의 출시 대상 국가는 대한민국, 호주, 뉴질랜드, 싱가포르이며, 모든 출시 대상 국가에서 만 14세 이상만 이용할 수 있습니다. 최초 실행에서 자신의 연령 구간을 사실대로 선택해야 합니다. 만 14세 미만이거나 연령을 확인하지 않으면 게임 이용과 광고 요청이 차단됩니다. 만 14세 이상 확인 여부는 기기에 저장합니다. 이 확인은 보호자 동의나 별도의 개인정보 처리 동의를 대신하지 않습니다. 스토어 콘텐츠 등급은 서비스의 최소 이용 연령과 별도로 정해집니다.
 
 이용자는 앱을 적법하게 설치하여 개인적·비상업적 목적으로 이용할 수 있습니다. 배포 스토어의 이용 등급과 거주 지역의 관련 법령을 따라야 하며, 법령상 필요한 경우 보호자의 동의를 받아야 합니다. 이 약관은 관련 법령이 보장하는 소비자 또는 미성년자의 권리를 제한하지 않습니다.
 
@@ -65,6 +65,8 @@
 
 네트워크 장애, 기기 문제 또는 외부 광고 서비스 장애 등 각 당사자가 통제할 수 없는 사유에 대해서는 관련 법령에 따라 책임을 판단합니다. 이 약관은 운영자의 고의·과실에 따른 법적 책임이나 법령상 배제할 수 없는 이용자의 권리를 면제·제한하지 않습니다.
 
+호주 이용자에게 Australian Consumer Law가 적용되는 경우 배제·제한할 수 없는 소비자 보장과 법정 구제 권리는 유지됩니다. 뉴질랜드 이용자에게 Consumer Guarantees Act 1993 및 Fair Trading Act 1986이 적용되는 경우에도 배제할 수 없는 보장과 권리는 유지됩니다. 대한민국과 싱가포르 이용자 역시 각 국가에서 적용되는 강행적인 소비자 보호 법령상의 권리를 보유합니다. 앱의 무료 제공이나 게임 내 가상 요소에 관한 설명만으로 이러한 권리를 배제하지 않습니다.
+
 ## 10. 개인정보
 
 개인정보 처리에 관한 내용은 [Shadow Marble 개인정보처리방침](https://github.com/born130431b/privacyTerm/blob/main/brick/privacyPolicy.md)을 따릅니다. 앱 이용 또는 이 약관에 대한 동의만으로 법령상 별도로 필요한 개인정보 동의를 대신하지 않습니다.
@@ -78,3 +80,13 @@
 게임 이용, 광고 보상, 오류 및 약관 관련 문의는 [maybemyportfolio@gmail.com](mailto:maybemyportfolio@gmail.com)으로 접수합니다. 문의 시 앱 버전, 기기 종류와 문제 상황을 알려 주시면 확인에 도움이 됩니다. 비밀번호 등 불필요한 개인정보는 보내지 마십시오.
 
 이 약관에는 대한민국 법률을 적용하되, 이용자 거주지의 강행적인 소비자 보호 규정을 배제하지 않습니다. 분쟁은 당사자 간 협의를 통해 해결하도록 노력하며, 해결되지 않는 경우 관련 법령에 따른 관할 법원에서 처리합니다.
+
+## English summary
+
+Shadow Marble is offered by Maybe My Studio (individual developer Seongjin Lee) in South Korea, Australia, New Zealand and Singapore. Users must be at least 14 and must obtain parental consent where applicable law requires it. The age declaration does not replace parental consent or separately required privacy consent. This is a summary of the Korean terms above.
+
+The app is for personal, non-commercial use. Game progress and collection are stored locally and may be lost after app-data deletion, uninstallation or device changes. There is no developer-hosted account or cloud-save service. The app includes interstitial and optional rewarded ads, with no current in-app purchases or subscriptions. Rewards depend on the ad service confirming completion; ad availability is not guaranteed.
+
+Do not interfere with the app, manipulate ads or rewards, or infringe others' rights. The developer may update or discontinue features for operational, security or legal reasons and will give notice of material changes where possible and as required by law.
+
+Nothing in these terms excludes liability or consumer rights that cannot lawfully be excluded, including applicable guarantees under the Australian Consumer Law and New Zealand Consumer Guarantees Act 1993. Korean law governs subject to mandatory protections in your place of residence; disputes are handled by courts with jurisdiction under applicable law. Contact [maybemyportfolio@gmail.com](mailto:maybemyportfolio@gmail.com) for issues or complaints.
