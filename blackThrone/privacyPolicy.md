@@ -93,3 +93,102 @@ Firebase의 인증·저장 처리는 운영자를 위한 서비스 제공 업무
 
 개인정보 보호 담당자: 이성진 / Maybe My Studio  
 연락처: [maybemyportfolio@gmail.com](mailto:maybemyportfolio@gmail.com)
+
+
+---
+
+# BLACK THRONE Privacy Policy (English)
+
+Created / updated: November 8, 2026  
+Document status: Information based on the development and test version; draft for review before public service
+
+- Game: 검은 왕좌 · BLACK THRONE
+- Operating name: Maybe My Studio
+- Personal information controller and privacy contact: 이성진 (Lee Seong-jin, individual developer and operator)
+- Privacy inquiries, rights requests, and account deletion: [maybemyportfolio@gmail.com](mailto:maybemyportfolio@gmail.com)
+- Related document: [Terms of Use and Asset / Audio Credits](TermsOfUse.md)
+
+This policy applies to on-device storage, optional Google sign-in and cloud backup, advertising, and inquiry handling for this game. Descriptions of sign-in and advertising are based on the Android integration code and service configuration. End-to-end verification of sign-in, advertising, consent, and return-to-game flows on physical devices has not yet been completed. Publication of this document does not mean that the game has launched in a store, that services are continuously available, or that all legal and technical preparations for public service are complete.
+
+## 1. Information Processed and Purposes
+
+| Category | Information | Purpose and circumstances |
+|---|---|---|
+| On-device game saves | Shard balance; skill unlock, upgrade, and equipment status; up to three continue saves; run identifier (runId); level, progress, and ad-revival usage; gameplay statistics needed for combat adaptation; app-generated random per-device identifier and change sequence; save creation and update times; records preventing duplicate kill rewards; save change identifiers and versions | Maintaining progress, preventing duplicate rewards, and applying game rules to the next encounter. Guest progress is also saved on the device. |
+| On-device settings | Available display and input settings, such as sound effects and screen shake | Retaining settings. Not all settings are backed up to the cloud. |
+| Optional Google sign-in | Google authentication results and ID tokens, Firebase user identifier (UID), and sign-in provider information. Google/Firebase authentication systems may process basic account information such as email address, name, and profile picture, as well as IP address and user agent. | Authenticating the user's account when they sign in and separating saves by account. Progress backups use the UID; email, name, and profile picture are not copied into separate game-profile fields. The game does not directly request or store Google passwords. |
+| Optional cloud backup | UID and the account's game profile; shards, skills, continue saves, and revival usage; random per-device identifier and change sequence; save times and kill records; change identifiers and save versions | Backing up and restoring signed-in account progress, checking conflicts, and preventing duplicate writes. Data is read at app startup or account connection and saved when progress changes; combat records are not transmitted every frame. |
+| Advertising SDKs | IP address and approximate location inferred from it; app and ad interactions, such as launches, taps, and video views; performance and diagnostic information; device or account identifiers such as Android advertising ID and app set ID; required consent and privacy-choice status | Requesting, displaying, and measuring ads; confirming rewards; and preventing abuse. Google Mobile Ads and UMP process information according to the actual configuration, region, device, and user choices. |
+| Inquiries | Sender's email address, inquiry content, and materials voluntarily attached by the user | Responding, investigating errors, and handling rights and account-deletion requests |
+
+The game does not collect contact lists, text-message contents, microphone recordings, camera images, or precise GPS location as game features. Separate Google Analytics or Firebase Crashlytics analytics/error-collection features have not been introduced in the current configuration. This does not mean that authentication or advertising SDKs do not process their own security or diagnostic information.
+
+Do not send unnecessary information such as passwords, authentication tokens, full payment-card or payment-method numbers, or identity documents when contacting us. Combat adaptation adjusts difficulty and patterns using gameplay statistics; it does not assess users' real-world identities or sensitive information.
+
+## 2. Optional Features and Advertising Privacy Choices
+
+Google sign-in is optional. Local combat is available without signing in, but account-based cloud recovery is limited. Signing out is different from deleting an account or cloud data.
+
+Rewarded ads are used when users choose revival or the shard reward shown on screen. Interstitial ads may appear during screen transitions after death. Declining a rewarded ad does not, by itself, stop interstitial ad requests or all processing by advertising SDKs.
+
+The ad integration is configured to update consent information through UMP, display required messages, and request ads only when the SDK permits ad requests. The game's settings are connected to advertising privacy options so that users can change privacy choices when required. Actual availability and wording may vary by region, platform, and SDK state.
+
+Users can delete their advertising ID or change related choices in Android's advertising privacy settings. Opting out of personalized ads or deleting an advertising ID does not stop all advertising, security, or measurement processing. Processing that requires consent under applicable law requires a separate consent procedure; playing the game or reading this document is not treated as consent to all processing.
+
+## 3. External Services, Entrusted Processing, and Disclosure
+
+| Provider / service | Tasks and information scope | Information |
+|---|---|---|
+| Google sign-in / Firebase Authentication | Account authentication, authentication account information and UID, authentication communications and security information | [Google Privacy Policy](https://policies.google.com/privacy), [Firebase privacy and security](https://firebase.google.com/support/privacy) |
+| Google Cloud Firestore | Storage and synchronization of game profiles by UID | The current project's game-progress database region is Seoul, Republic of Korea (asia-northeast3). |
+| Google AdMob / Mobile Ads / UMP | Ad delivery, measurement, security, and privacy-choice management | [Advertising SDK data disclosure](https://developers.google.com/admob/android/privacy/play-data-disclosure), [UMP information](https://developers.google.com/admob/android/privacy) |
+| Inquiry email service | Sending, receiving, and storing inquiry emails and attachments | The policies of the email service used for inquiries also apply. |
+| GitHub and linked external source websites | Web-access information when viewing policies, terms, or credit documents | GitHub is not the game's progress database. Opening external links may cause IP addresses, browser information, and other data to be processed under those sites' policies. [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) |
+
+Firebase authentication and storage processing may constitute services performed on behalf of the operator within the applicable scope. Advertising providers' processing purposes and legal roles depend on their actual contracts and configurations. This table does not collectively replace consent to third-party disclosure or entrusted processing. Information may be processed to the extent necessary to respond to lawful requests under applicable law.
+
+## 4. Processing Outside the Republic of Korea
+
+The Seoul region of the game-progress database is separate from the processing locations of authentication and advertising services. According to Firebase's official information, Authentication is processed in US data centers. Google's advertising and related global services may process information in countries where Google or its agents operate facilities. We therefore do not state that all information remains in the Republic of Korea.
+
+Before public service, service-specific disclosures must be finalized, including the actual contractual recipient entity and contact details, destination countries, transferred information, purposes, timing, methods, retention periods, legal grounds, and any required consent, refusal methods, and consequences. This section does not represent completion of those detailed disclosures or required consent procedures. Users who do not use Google sign-in or cloud features can avoid authentication and backup transfers for those features; advertising choices are described in Section 2.
+
+## 5. Retention and Deletion
+
+- **Local progress and settings:** Retained on the user's device until app data or the relevant save is deleted. Operating-system backups/restores or copies on other devices may remain separately.
+- **Cloud game profiles:** Retained as needed to provide account-based backup and designated for deletion upon a verified deletion request or when the retention purpose ends. Uninstalling the app, signing out, or deleting one continue slot is different from deleting the entire cloud account.
+- **Authentication information:** Firebase's official information states that authentication IP logs may be retained for a few weeks, while other authentication information remains until the operator initiates deletion of the user. Removal from the provider's operational and backup systems may take up to 180 days after deletion begins. This does not mean that the game operator arbitrarily retains all information for 180 days.
+- **Advertising and consent information:** Processed for periods determined by actual SDK settings, user choices, and Google's applicable service policies. Deleting a game profile does not immediately delete every record held by an advertising provider.
+- **Inquiry records:** Retained to the extent needed to answer inquiries and handle disputes. Specific operational retention periods and procedures for deleting emails, attachments, and backups will be finalized and disclosed before public service.
+- Where a separate legal retention obligation applies, the relevant information, legal basis, and period will be identified, and the information will be retained separately and not used for other purposes. We do not claim to collect or retain payment records for paid purchases that are not currently offered.
+
+Electronic information designated for deletion is deleted from operational systems so that it cannot be recovered or reproduced. Provider-managed backups and logs follow the provider's deletion procedures. The full public-service backup-retention and periodic-deletion procedures have not yet been verified.
+
+## 6. Exercising Rights and Requesting Account / Data Deletion
+
+Users may request access, correction or deletion, suspension of processing, withdrawal of consent, and other rights under applicable law.
+
+1. Email [maybemyportfolio@gmail.com](mailto:maybemyportfolio@gmail.com) with **“BLACK THRONE Account / Data Deletion Request”** or the type of request in the subject.
+2. Provide the game name, the email used to sign in or other verifiable game-account identification, and the scope of deletion requested, such as cloud progress, game authentication account, or inquiry materials. Do not send passwords or ID tokens.
+3. The operator will verify ownership using the minimum necessary information and explain the scope and outcome. If a request must be restricted or some information retained under law, the reasons and scope will be explained.
+4. The cloud profile and the game's Firebase authentication account are handled separately. This request does not delete the user's Google account itself.
+5. On-device saves may need to be deleted separately, for example by clearing app data. Uploading a remaining save from another device may create new data, so please stop resynchronization while deletion is being processed.
+
+We do not state that the current app has a dedicated full-account-deletion button or automated deletion process. The email address above is an external request channel that does not require reinstalling the app. Public Google Play services that include account creation are subject to additional requirements, including an in-app deletion-request route; providing an email address alone does not satisfy all such requirements. See [Google Play account deletion requirements](https://support.google.com/googleplay/android-developer/answer/13327111).
+
+## 7. Children and Young People
+
+We do not arbitrarily designate this as a children's service or definitively classify it as an adults-only service. Target ages and regions, store ratings, age verification, parental consent, and advertising settings for children and young people must be finalized and verified before public service. Another game's age policy is not automatically applied to this game. If the service targets users who require additional protections, such as consent from a legal representative, the necessary procedures will be established first.
+
+## 8. Security Measures and Audio / Assets
+
+Saves are separated by UID, and access to profiles is configured to be restricted to authenticated accounts. Authentication, cloud, and advertising SDKs use encrypted communications as described by their providers. The operator must maintain access restrictions and account security and apply necessary privacy safeguards. These configuration descriptions are not a guarantee that every security incident can be prevented.
+
+Background music, sound effects, characters, effects, and fonts are displayed or played on the device from files included in the app. Audio playback does not send playback records, account information, or game progress to OpenGameArt, Kenney, itch.io, or audio creators. Images made with generative tools are production assets; they are not a feature that sends users' gameplay data to image-generation services. Processing when users directly open external source websites is separate and described in Section 3.
+
+## 9. Changes and Contact
+
+If processing purposes, information categories, providers, age policies, or other details change, this document will indicate the update date and applicable changes, and in-game notices or consent procedures will be provided where necessary. The public-service effective date will be announced separately after the release configuration and outstanding disclosures are finalized.
+
+Privacy contact: 이성진 (Lee Seong-jin) / Maybe My Studio  
+Email: [maybemyportfolio@gmail.com](mailto:maybemyportfolio@gmail.com)
