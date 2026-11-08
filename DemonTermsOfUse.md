@@ -1,6 +1,6 @@
 # 게임 이용약관 — 검토용 초안
 
-작성일: 2026년 10월 11일 / 수정일: 2026년 11월 6일 / 시행 예정일: 2027년 1월 4일
+작성일: 2026년 10월 11일 / 수정일: 2026년 11월 8일 / 시행 예정일: 2027년 1월 4일
 
 운영 명칭: Maybe My Studio
 
@@ -98,6 +98,17 @@ Android 앱 식별자: `com.maybemystudio.endgame`
 | cynicmusic | [Town Theme RPG](https://opengameart.org/content/town-theme-rpg) | 마을 배경 음악 |
 
 음원은 게임 재생에 맞춰 무음 정리, 음량·루프 경계 조정, 채널·파일 형식 변환 등을 거쳤습니다. [CC0 1.0의 안내 및 원문](https://creativecommons.org/publicdomain/zero/1.0/)에 따라 해당 자료는 상업적 이용·복제·수정·배포가 가능하며, 이 약관으로 CC0 자료에 허용된 이용을 제한하지 않습니다. 제작자 표시는 출처 안내를 위한 것이며 제작자의 게임 후원·보증을 뜻하지 않습니다. CC0는 게임 전체의 코드·로고·다른 아트나 타인의 상표·초상·개인정보 관련 권리까지 자유 이용으로 전환하는 조건이 아닙니다. 음원 외 구성 요소의 이용 조건은 각 자료의 라이선스를 따릅니다.
+
+### 포탈 애니메이션 출처
+
+몬스터 필드의 포탈은 **Hansjörg Malthaner (Varkalandar)**의 **Animated Portal or Wormhole, several Variants — 5번 변형**을 사용합니다.
+
+- 원본: https://opengameart.org/content/animated-portal-or-wormhole-several-variants
+- 제작자: https://opengameart.org/users/varkalandar
+- 적용 라이선스: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+- 게임 적용 변경: 표시 크기·반복 재생 설정 및 셰이더를 이용한 용도별 색상 변경. 원본 64프레임 PNG는 보존했습니다.
+
+제작자 표시는 제작자의 게임 후원·보증을 뜻하지 않습니다. 이 포탈 자료에 CC BY 4.0이 허용하는 이용을 게임 이용약관으로 추가 제한하지 않으며, 해당 라이선스가 게임 전체의 코드·로고·다른 아트에 적용되는 것은 아닙니다.
 
 이용자가 작성한 게시물에 대한 권리를 운영자가 모두 취득하는 것으로 보지 않습니다. 운영자는 채팅·길드 등 해당 기능의 제공, 표시, 신고 검토와 법적 의무 이행에 필요한 범위에서 게시물을 처리합니다. 별도의 광고·홍보 목적으로 이용하려면 필요한 권한을 확보합니다. 게시물 처리에 개인정보가 포함되면 개인정보 처리방침을 함께 적용합니다.
 
