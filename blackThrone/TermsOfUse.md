@@ -107,3 +107,116 @@ Google 로그인은 선택 사항이고, 게스트는 로컬 전투를 이용할
 분쟁은 먼저 문의를 통해 해결하도록 노력하며, 해결되지 않는 경우 적용 법령과 법정 관할에 따릅니다. 이용자에게 법령상 보장된 관할·구제 수단을 제한하지 않습니다.
 
 중요한 약관 변경이나 서비스 시행일은 게임·공개 문서 등 이용 가능한 경로로 안내하고 필요한 동의 절차를 거칩니다. 이 문서는 개발·테스트 버전의 현재 기능·에셋을 기준으로 작성했으며, 공개 서비스의 연령·지역·계정 삭제·국외 이전 세부 고지 등이 확정되면 갱신합니다.
+
+
+---
+
+# BLACK THRONE Terms of Use and Asset / Audio Credits (English)
+
+Created / updated: November 8, 2026  
+Document status: Information based on the development and test version; draft for review before public service
+
+Operating name: Maybe My Studio  
+Operator: 이성진 (Lee Seong-jin, individual developer)  
+Contact: [maybemyportfolio@gmail.com](mailto:maybemyportfolio@gmail.com)  
+Related document: [Privacy Policy](privacyPolicy.md)
+
+## Article 1. Purpose and Application
+
+These terms explain the conditions for playing 검은 왕좌 · BLACK THRONE, saves, accounts, advertising rewards, and use of content. Please also check the version actually provided and the instructions on the game screen. Target ages, service regions, and the public-service effective date will be finalized before launch. The terms or operating conditions of other games do not automatically apply.
+
+These terms do not exclude user rights guaranteed by applicable law. Where separate consent is legally required, reading this document or continuing to play is not treated as that consent.
+
+## Article 2. Game and Accounts
+
+Players control the Demon Lord fixed at the center and fight heroes using basic attacks, skills, and summons. Game values, progression, adaptation, and presentation may be adjusted through updates. Changes that materially affect saves or rewards will be explained.
+
+Google sign-in is optional, and guests can play local combat. Availability of sign-in, cloud features, and advertising may vary with network conditions, provider status, region, and actual deployment settings. Users must not use another person's account or authentication information without authorization.
+
+## Article 3. Saves and Cloud Storage
+
+1. Local saves are stored on the device. Recovery may be difficult after app-data deletion, device loss, replacement or failure, or operating-system actions.
+2. Cloud saves are separated by the signed-in account. If local and server records differ, users must follow the confirmation and conflict-selection procedures provided by the game. Real-time backup of every change or unconditional recovery is not guaranteed.
+3. Up to three continue saves are retained. The first three runs are saved automatically while empty slots remain. Starting a new run after all slots are full does not automatically replace existing slots. If the user chooses to save upon death in that run, the user selects the slot to overwrite. Continuing a run preserves its original slot and run identifier.
+4. Deleting or overwriting a save slot is different from deleting the entire game account. Account and personal-information deletion follows [Section 6 of the Privacy Policy](privacyPolicy.md#6-권리-행사-및-계정데이터-삭제-요청).
+5. Liability attributable to the operator and users' statutory rights are governed by applicable law.
+
+## Article 4. Advertising and In-Game Currency
+
+Rewarded ads are used when users choose revival or the shard reward displayed on screen. If an ad is unavailable, fails, or is canceled, a successful-ad reward is not arbitrarily granted. Rewards are granted without duplication based on valid confirmation of an ad reward.
+
+Ad revival is available once over the lifetime of the same run (runId). Its usage status persists after continuing, restarting the app, or restoring from the cloud. Revival using shards is separate from ad revival. Please check the game screen at the time of use for actual costs, rewards, and availability.
+
+Interstitial ads may appear during screen transitions after death, subject to conditions such as combat time and number of deaths. Interstitial ads are separate from rewarded ads and do not themselves grant revival rewards or consume an ad revival.
+
+Black shards, skills, run records, and similar items are data for gameplay. The game currently offers no cash purchases, cash redemption, or currency trading between users. If paid products are introduced, pricing, payment, withdrawal/cancellation rights, refunds, and purchase conditions for minors will be explained separately before sales begin.
+
+## Article 5. Prohibited Conduct and Restrictions
+
+Users must not infringe another person's account or personal information, bypass authentication or server permissions, distribute malware, forge reward receipts or exploit duplicate rewards, disrupt services, or violate laws or others' rights.
+
+The operator may restrict access, correct errors, or take other measures to the extent necessary for the nature and impact of an issue. Where possible, reasons and methods for inquiries or objections will be provided. Users will not be disadvantaged for simply reporting errors or legitimately exercising their rights.
+
+## Article 6. Changes, Interruptions, and Liability
+
+Some features may change or be temporarily suspended due to maintenance, updates, failures, or changes to external services. Planned material changes will be announced in advance where possible; emergency failures will be announced after they are confirmed.
+
+Development and test versions may contain errors or unfinished features. These terms must not be interpreted as exempting the operator from liability for intent, gross negligence, or any liability that cannot be excluded under applicable law. If the service ends or there are material changes to save handling, available notice, preservation, and deletion procedures will be explained separately.
+
+## Article 7. Intellectual Property and Permission to Use
+
+Rights in the game code, structure, presentation, content created for the game, and third-party assets belong to the respective rightsholders or are governed by the applicable licenses. Users may use content to the extent necessary to run the game. These terms do not grant a right to extract, sell, or redistribute original characters, sprites, animations, audio, fonts, or SDKs as separate asset packs.
+
+However, these terms do not reduce rights separately granted under CC0, the SIL OFL, or other individual licenses. The conditions for using the game as a whole are separate from individual asset licenses. Credits do not mean that external creators produce, operate, or endorse this game.
+
+## Article 8. Background Music and Sound-Effect Credits
+
+The following audio materials are CC0 resources available for free download and permitted for use and modification in commercial games. Attribution is not mandatory for these materials, but we thank the original creators and provide their sources.
+
+| Audio / pack | Creator | Source and license | In-game use |
+|---|---|---|---|
+| RPG Audio | Kenney / Kenney Vleugels | [Source](https://kenney.nl/assets/rpg-audio) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | Holy spears, blades, impacts, hero deaths, and similar effects |
+| Digital Audio | Kenney / Kenney Vleugels | [Source](https://kenney.nl/assets/digital-audio) · CC0 1.0 | Shared summoning, defense, wave effects, and similar sounds |
+| 80 CC0 RPG SFX | rubberduck | [Source](https://opengameart.org/content/80-cc0-rpg-sfx) · CC0 1.0 | Ten skills, chains, stone, spells, summon attacks, and Demon Lord impacts and collapse |
+| Monster Sound Effects 2 | Ogrebane | [Source](https://opengameart.org/content/monster-sound-effects-2) · CC0 1.0 | Impact and death sounds for different summons |
+| Deep Humidity | TinyWorlds | [Source](https://opengameart.org/content/deep-humidity) · CC0 1.0 | Dark background music for the title and combat |
+
+Some files were renamed for internal game use, and playback speed, pitch, and volume were adjusted. For example, the hero-death sound is based on Kenney's dropLeather, and the Demon Lord's collapse sound is based on rubberduck's stones_03. The initial summoning sound is shared, while summon attacks, impacts, and deaths differ by type. This does not mean that the original creators recorded each sound specifically for this game.
+
+Audio is included in the app and played on the device. The game does not use external audio-site streaming services or transmit playback records to those sites.
+
+## Article 9. Character, Animation, and Effect Credits
+
+| Asset | Creator | Source / applicable terms | Use / inclusion |
+|---|---|---|---|
+| Hero Knight - Pixel Art | Sven Thole | [Unity Asset Store](https://assetstore.unity.com/packages/2d/characters/hero-knight-pixel-art-165188) · [Standard Unity Asset Store EULA](https://unity.com/legal/as-terms) | Original sprites and animations for the swordsman hero and derived presentation |
+| Bandits - Pixel Art | Sven Thole | [Unity Asset Store](https://assetstore.unity.com/packages/2d/characters/bandits-pixel-art-104130) · Standard Unity Asset Store EULA | Body and walking foundations for other hero classes and derived presentation |
+| Bringer Of Death (Free) | Clembod | [Source / creator's terms](https://clembod.itch.io/bringer-of-death-free) | Sentinel servant. Personal and commercial use and modification permitted; resale or redistribution of the asset itself prohibited |
+| Warrior-Free Animation Set / Warrior Free Asset | Clembod | [Source / creator's terms](https://clembod.itch.io/warrior-free-animation-set) | Original frames and motion for the shadow swordsman. Personal and commercial use and modification permitted; resale or redistribution of the asset itself prohibited |
+| Evil Wizard | LuizMelo | [Source](https://luizmelo.itch.io/evil-wizard) · CC0 1.0 | Dark healer |
+| Evil Wizard 3 | LuizMelo | [Source](https://luizmelo.itch.io/evil-wizard-3) · CC0 1.0 | Shadow mage |
+| Monsters Creatures Fantasy | LuizMelo | [Source](https://luizmelo.itch.io/monsters-creatures-fantasy) · CC0 1.0 | Exploding mushroom, cursed eye, and rampaging goblin |
+| Monsters Creatures Fantasy 2 | LuizMelo | [Source](https://luizmelo.itch.io/monsters-creatures-fantasy-2) · CC0 1.0 | Slime, vampire bat, and throne mimic |
+| PIPOYA FREE VFX Warp Portal | Pipoya | [Source / creator's terms](https://pipoya.itch.io/pipoya-free-vfx-warp-portal) | Summoning portal. Personal and commercial use and modification permitted; resale or redistribution of the asset itself prohibited |
+| Dungeon Characters 2D | PONETI | [Unity Asset Store](https://marketplace.unity.com/packages/2d/characters/dungeon-characters-2d-260797) · Standard Unity Asset Store EULA | Supporting / earlier character rigs and derived materials retained in the project. This does not mean that all ten current summon types originate from this pack |
+| Unity 2D Animation Samples | Unity Technologies | © 2022 Unity Technologies · [Unity Companion License](https://unity.com/legal/licenses/unity-companion-license) | Official rig samples, alternative representations, and derived materials included in the project |
+
+Not all assets obtained for free are CC0. Unity Asset Store materials follow the EULA applicable to the acquired asset; Clembod and Pipoya materials follow their creators' terms. Grayscale conversion, frame selection, mesh or material deformation, or added surfaces such as mummy bandages do not remove the original applicable terms.
+
+“Retained,” “supporting,” and “alternative” materials in the table distinguish materials included in the development project. They do not mean that every material appears simultaneously on every current game screen. Notices for third-party materials included in actual distributions are maintained for the relevant version.
+
+## Article 10. Fonts, Software, and Project-Created Materials
+
+**Noto Sans CJK KR Regular:** The [official original](https://github.com/notofonts/noto-cjk/blob/main/Sans/OTF/Korean/NotoSansCJKkr-Regular.otf) from the Noto Project is used. The [SIL Open Font License 1.1 and copyright notice](https://github.com/notofonts/noto-cjk/blob/main/Sans/LICENSE) apply. The font copyright notice and full OFL text are retained with the font in the game project. The font may be included in commercial games; activities such as selling the font by itself are subject to the OFL.
+
+The game was made using Unity and related 2D Animation, PSD Importer, and UGUI components. Android account, storage, and advertising features use Google Credential Manager, Google Identity, Firebase Authentication, Cloud Firestore, Google Mobile Ads, and UMP. These do not transfer ownership of the original SDKs to game users; individual copyright and license notices apply to distributed components. Provider-specific personal-information processing is described in the [Privacy Policy](privacyPolicy.md).
+
+The Demon Lord statue, ruined background, some skill images, and textures were created and edited for the project using generative image tools. Some effects, including skill symbols, trails, chains, and cracks, were created through project code. This does not mean that all content was made by hand or that exclusive copyright in every element is guaranteed. Derivatives using third-party originals are also subject to the original terms. No feature sends user data to image-generation services during gameplay.
+
+## Article 11. Inquiries, Disputes, and Changes
+
+Inquiries and objections about errors, rewards, saves, and asset rights can be sent to [maybemyportfolio@gmail.com](mailto:maybemyportfolio@gmail.com). Do not send account passwords or tokens.
+
+We will first try to resolve disputes through inquiries. Unresolved disputes are subject to applicable law and statutory jurisdiction. Users' legally guaranteed jurisdiction and remedies are not restricted.
+
+Material changes to the terms and the service effective date will be announced through available channels such as the game and public documents, with required consent procedures. This document is based on the current features and assets of the development and test version. It will be updated when public-service details, including age, region, account deletion, and cross-border-transfer disclosures, are finalized.
