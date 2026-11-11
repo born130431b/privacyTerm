@@ -1,6 +1,6 @@
 # 검은 왕좌 · BLACK THRONE 이용약관 및 에셋·음원 출처
 
-작성·갱신일: 2026년 11월 8일  
+작성·갱신일: 2026년 11월 11일  
 문서 상태: 개발·테스트 버전 기준 안내 및 공개 서비스 전 검토용 초안
 
 운영 명칭: Maybe My Studio  
@@ -10,7 +10,7 @@
 
 ## 제1조 목적과 적용
 
-이 약관은 검은 왕좌 · BLACK THRONE의 게임 이용, 저장·계정·광고 보상 및 콘텐츠 이용 조건을 안내합니다. 실제 제공되는 버전과 게임 화면의 안내를 함께 확인해 주십시오. 공개 서비스의 대상 연령·지역·시행일 등은 출시 전 확정하며, 다른 게임의 약관이나 운영 조건을 자동으로 적용하지 않습니다.
+이 약관은 검은 왕좌 · BLACK THRONE의 게임 이용, 저장·계정·광고 보상 및 콘텐츠 이용 조건을 안내합니다. 실제 제공되는 버전과 게임 화면의 안내를 함께 확인해 주십시오. 대상 연령은 만 14세 이상이며, 공개 서비스의 지역·시행일 등은 출시 전 확정합니다. 또한 다른 게임의 약관이나 운영 조건을 자동으로 적용하지 않습니다.
 
 관계 법령이 보장하는 이용자의 권리를 이 약관으로 배제하지 않습니다. 법령상 별도의 동의가 필요한 사항은 이 문서를 열람하거나 게임을 계속 이용했다는 이유만으로 동의한 것으로 처리하지 않습니다.
 
@@ -23,7 +23,7 @@ Google 로그인은 선택 사항이고, 게스트는 로컬 전투를 이용할
 ## 제3조 저장과 클라우드
 
 1. 로컬 저장은 기기에 보관됩니다. 앱 데이터 삭제, 기기 분실·교체·고장 또는 운영체제의 처리에 따라 복구가 어려울 수 있습니다.
-2. 클라우드 저장은 로그인한 계정별로 구분됩니다. 로컬과 서버의 기록이 다르면 게임이 제공하는 확인·충돌 선택 절차를 따라야 합니다. 모든 변경의 실시간 백업이나 무조건적인 복구를 보장하지 않습니다.
+2. 클라우드 저장은 로그인한 계정별로 구분됩니다. 로컬과 서버의 기록이 다르면 같은 기기의 더 최근 변경을 사용하고, 다른 기기와의 충돌이나 기기 식별자가 없는 이전 저장은 클라우드 기록을 우선합니다. 모든 변경의 실시간 백업이나 무조건적인 복구를 보장하지 않습니다.
 3. 이어하기는 최대 3개를 보관합니다. 빈 슬롯이 있는 첫 3개 여정은 자동 저장하며, 슬롯이 가득 찬 뒤 새 여정을 시작해도 기존 슬롯을 임의 교체하지 않습니다. 해당 여정의 사망 시 저장을 선택하면 덮어쓸 슬롯을 이용자가 고릅니다. 이어하기는 원래 슬롯과 여정 식별자를 유지합니다.
 4. 저장 슬롯 삭제·덮어쓰기와 전체 게임 계정 삭제는 다릅니다. 계정·개인정보 삭제는 [개인정보처리방침 제6항](privacyPolicy.md#6-권리-행사-및-계정데이터-삭제-요청)의 절차를 따릅니다.
 5. 운영자의 귀책에 따른 책임과 이용자의 법정 권리는 관계 법령에 따릅니다.
@@ -106,14 +106,14 @@ Google 로그인은 선택 사항이고, 게스트는 로컬 전투를 이용할
 
 분쟁은 먼저 문의를 통해 해결하도록 노력하며, 해결되지 않는 경우 적용 법령과 법정 관할에 따릅니다. 이용자에게 법령상 보장된 관할·구제 수단을 제한하지 않습니다.
 
-중요한 약관 변경이나 서비스 시행일은 게임·공개 문서 등 이용 가능한 경로로 안내하고 필요한 동의 절차를 거칩니다. 이 문서는 개발·테스트 버전의 현재 기능·에셋을 기준으로 작성했으며, 공개 서비스의 연령·지역·계정 삭제·국외 이전 세부 고지 등이 확정되면 갱신합니다.
+중요한 약관 변경이나 서비스 시행일은 게임·공개 문서 등 이용 가능한 경로로 안내하고 필요한 동의 절차를 거칩니다. 이 문서는 개발·테스트 버전의 현재 기능·에셋을 기준으로 작성했으며, 공개 서비스의 지역·계정 삭제·국외 이전 세부 고지 등이 확정되면 갱신합니다.
 
 
 ---
 
 # BLACK THRONE Terms of Use and Asset / Audio Credits (English)
 
-Created / updated: November 8, 2026  
+Created / updated: November 11, 2026  
 Document status: Information based on the development and test version; draft for review before public service
 
 Operating name: Maybe My Studio  
@@ -123,7 +123,7 @@ Related document: [Privacy Policy](privacyPolicy.md)
 
 ## Article 1. Purpose and Application
 
-These terms explain the conditions for playing 검은 왕좌 · BLACK THRONE, saves, accounts, advertising rewards, and use of content. Please also check the version actually provided and the instructions on the game screen. Target ages, service regions, and the public-service effective date will be finalized before launch. The terms or operating conditions of other games do not automatically apply.
+These terms explain the conditions for playing 검은 왕좌 · BLACK THRONE, saves, accounts, advertising rewards, and use of content. Please also check the version actually provided and the instructions on the game screen. The game is intended for users aged 14 and older. Service regions and the public-service effective date will be finalized before launch. The terms or operating conditions of other games do not automatically apply.
 
 These terms do not exclude user rights guaranteed by applicable law. Where separate consent is legally required, reading this document or continuing to play is not treated as that consent.
 
@@ -136,7 +136,7 @@ Google sign-in is optional, and guests can play local combat. Availability of si
 ## Article 3. Saves and Cloud Storage
 
 1. Local saves are stored on the device. Recovery may be difficult after app-data deletion, device loss, replacement or failure, or operating-system actions.
-2. Cloud saves are separated by the signed-in account. If local and server records differ, users must follow the confirmation and conflict-selection procedures provided by the game. Real-time backup of every change or unconditional recovery is not guaranteed.
+2. Cloud saves are separated by the signed-in account. If local and server records differ, the game uses the later change from the same device; for conflicts involving another device or older saves without a device identifier, it prioritizes the cloud record. Real-time backup of every change or unconditional recovery is not guaranteed.
 3. Up to three continue saves are retained. The first three runs are saved automatically while empty slots remain. Starting a new run after all slots are full does not automatically replace existing slots. If the user chooses to save upon death in that run, the user selects the slot to overwrite. Continuing a run preserves its original slot and run identifier.
 4. Deleting or overwriting a save slot is different from deleting the entire game account. Account and personal-information deletion follows [Section 6 of the Privacy Policy](privacyPolicy.md#6-권리-행사-및-계정데이터-삭제-요청).
 5. Liability attributable to the operator and users' statutory rights are governed by applicable law.
@@ -219,4 +219,5 @@ Inquiries and objections about errors, rewards, saves, and asset rights can be s
 
 We will first try to resolve disputes through inquiries. Unresolved disputes are subject to applicable law and statutory jurisdiction. Users' legally guaranteed jurisdiction and remedies are not restricted.
 
-Material changes to the terms and the service effective date will be announced through available channels such as the game and public documents, with required consent procedures. This document is based on the current features and assets of the development and test version. It will be updated when public-service details, including age, region, account deletion, and cross-border-transfer disclosures, are finalized.
+Material changes to the terms and the service effective date will be announced through available channels such as the game and public documents, with required consent procedures. This document is based on the current features and assets of the development and test version. It will be updated when public-service details, including region, account deletion, and cross-border-transfer disclosures, are finalized.
+
