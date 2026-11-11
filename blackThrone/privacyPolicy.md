@@ -1,13 +1,13 @@
 # 검은 왕좌 · BLACK THRONE 개인정보처리방침
 
-작성·갱신일: 2026년 11월 8일  
+작성·갱신일: 2026년 11월 11일  
 문서 상태: 개발·테스트 버전 기준 안내 및 공개 서비스 전 검토용 초안
 
 - 게임: 검은 왕좌 · BLACK THRONE
 - 운영 명칭: Maybe My Studio
 - 개인정보처리자 및 개인정보 보호 담당자: 이성진(개인 개발자·운영자)
 - 개인정보 문의·권리 행사·계정 삭제 요청: [maybemyportfolio@gmail.com](mailto:maybemyportfolio@gmail.com)
-- 관련 문서: [게임 이용약관 및 에셋·음원 출처](TermsOfUse)
+- 관련 문서: [게임 이용약관 및 에셋·음원 출처](TermsOfUse.md)
 
 이 방침은 이 게임의 기기 내 저장, 선택적 Google 로그인·클라우드 백업, 광고 및 문의 처리에 적용됩니다. 로그인과 광고는 Android 연동 코드 및 서비스 구성을 기준으로 설명하며, 실제 기기의 로그인·광고·동의·복귀 흐름 전체 검증은 아직 완료되지 않았습니다. 이 문서를 게시했다는 사실이 스토어 출시, 서비스의 상시 제공 또는 공개 서비스의 법적·기술적 준비 완료를 뜻하지 않습니다.
 
@@ -52,7 +52,7 @@ Firebase의 인증·저장 처리는 운영자를 위한 서비스 제공 업무
 
 게임 진행 DB의 서울 리전과 인증·광고 서비스의 처리 장소는 서로 다릅니다. Firebase 공식 안내에 따르면 Authentication은 미국 데이터센터에서 처리됩니다. Google의 광고 및 관련 글로벌 서비스는 Google 또는 그 대리인이 시설을 운영하는 국가에서 정보를 처리할 수 있으므로, 모든 정보가 국내에만 보관된다고 안내하지 않습니다.
 
-공개 서비스 전 실제 계약상 수령 법인·연락처, 이전 국가, 이전 항목·목적·시기·방법·기간, 법적 근거, 필요한 동의와 거부 방법·영향을 서비스별로 확정해 고지해야 합니다. 현재 이 항목은 해당 세부 고지와 필요한 동의 절차를 완료한 것으로 표시하지 않습니다. Google 로그인·클라우드 기능을 이용하지 않으면 그 기능을 위한 인증·백업 전송은 이용하지 않을 수 있으며, 광고의 선택 범위는 제2항을 따릅니다.
+공개 서비스 전 실제 계약상 수령 법인·연락처, 이전 국가, 이전 항목·목적·시기·방법·기간, 법적 근거, 필요한 동의와 거부 방법·영향을 서비스별로 확정해 고지해야 합니다. 현재 이 항목은 해당 세부 고지와 필요한 동의 절차를 완료한 것으로 표시하지 않습니다. Google 로그인 시 인증 정보는 인터넷을 통해 전송되며, 로그인한 계정의 게임 진행 정보는 백업·복구 시 인터넷을 통해 Firestore로 전송됩니다. Google 로그인·클라우드 기능을 이용하지 않으면 그 기능을 위한 인증·백업 전송은 이용하지 않을 수 있으며, 광고의 선택 범위는 제2항을 따릅니다.
 
 ## 5. 보관과 파기
 
@@ -60,7 +60,7 @@ Firebase의 인증·저장 처리는 운영자를 위한 서비스 제공 업무
 - **클라우드 게임 프로필:** 계정 기반 백업 제공에 필요한 동안 보관하며, 본인 확인을 거친 삭제 요청 또는 보관 목적 종료 시 삭제 대상으로 처리합니다. 앱 삭제·로그아웃·이어하기 한 칸 삭제는 전체 클라우드 계정 삭제와 다릅니다.
 - **인증 정보:** Firebase 공식 안내상 인증 IP 로그는 수 주간 보관될 수 있으며, 다른 인증 정보는 운영자가 해당 사용자의 삭제를 시작할 때까지 유지됩니다. 삭제 개시 후 제공자의 운영·백업 시스템에서 제거되기까지 최대 180일이 걸릴 수 있습니다. 이는 게임 운영자가 모든 정보를 임의로 180일 보관한다는 뜻이 아닙니다.
 - **광고·동의 정보:** 실제 SDK 설정, 이용자의 선택, Google의 해당 서비스 정책에 따른 기간 동안 처리됩니다. 게임 프로필 삭제가 광고 사업자의 모든 기록을 즉시 삭제하는 것은 아닙니다.
-- **문의 기록:** 답변·분쟁 처리에 필요한 범위에서 보관합니다. 구체적인 운영 보관 기간과 메일·첨부·백업의 삭제 절차는 공개 서비스 전 확정해 안내합니다.
+- **문의 기록:** 답변 완료일부터 1년간 이메일과 첨부파일을 보관한 뒤 삭제합니다. 분쟁이 진행 중이거나 법령에 따른 보관 의무가 있는 경우에는 해당 사유가 종료될 때까지 필요한 범위에서 보관하고 이후 삭제합니다. 제공자의 백업과 로그는 해당 제공자의 삭제 절차에 따릅니다.
 - 법령상 별도 보관 의무가 적용되는 경우 해당 정보·근거·기간을 구분해 보관하고, 다른 목적으로 이용하지 않습니다. 현재 제공하지 않는 유료 구매를 이유로 결제 기록을 수집하거나 보관한다고 안내하지 않습니다.
 
 삭제 대상 전자 정보는 운영 중인 시스템에서 복구·재생되지 않도록 삭제하고, 제공자가 관리하는 백업·로그의 삭제는 해당 제공자의 절차를 따릅니다. 현재 공개 서비스용 백업 보관·주기적 파기 절차 전체가 검증 완료된 것은 아닙니다.
@@ -79,7 +79,7 @@ Firebase의 인증·저장 처리는 운영자를 위한 서비스 제공 업무
 
 ## 7. 아동·청소년
 
-어린이용 서비스로 임의 설정하거나 성인용 서비스로 임의 확정하지 않습니다. 이 게임의 출시 대상 연령·지역, 스토어 등급, 연령 확인·보호자 동의 및 광고 아동·청소년 설정은 공개 서비스 전 확정·검증해야 합니다. 다른 게임의 연령 정책을 이 게임에 그대로 적용하지 않습니다. 법정대리인 동의 등 별도 보호 절차가 필요한 이용자를 대상으로 하는 경우 필요한 절차를 먼저 마련합니다.
+이 게임의 대상 연령은 만 14세 이상입니다. 스토어 등급 및 광고 설정은 실제 배포 설정을 따르며, 대상 연령 안내가 이용자의 나이를 확인했다는 의미는 아닙니다. 만 14세 미만 아동의 개인정보가 필요한 법정대리인 동의 없이 처리된 사실을 알게 되면 관련 법령에 따라 필요한 조치를 취합니다. 개인정보 문의는 위 이메일로 접수할 수 있습니다.
 
 ## 8. 안전성 확보와 음원·에셋
 
@@ -99,7 +99,7 @@ Firebase의 인증·저장 처리는 운영자를 위한 서비스 제공 업무
 
 # BLACK THRONE Privacy Policy (English)
 
-Created / updated: November 8, 2026  
+Created / updated: November 11, 2026  
 Document status: Information based on the development and test version; draft for review before public service
 
 - Game: 검은 왕좌 · BLACK THRONE
@@ -151,7 +151,7 @@ Firebase authentication and storage processing may constitute services performed
 
 The Seoul region of the game-progress database is separate from the processing locations of authentication and advertising services. According to Firebase's official information, Authentication is processed in US data centers. Google's advertising and related global services may process information in countries where Google or its agents operate facilities. We therefore do not state that all information remains in the Republic of Korea.
 
-Before public service, service-specific disclosures must be finalized, including the actual contractual recipient entity and contact details, destination countries, transferred information, purposes, timing, methods, retention periods, legal grounds, and any required consent, refusal methods, and consequences. This section does not represent completion of those detailed disclosures or required consent procedures. Users who do not use Google sign-in or cloud features can avoid authentication and backup transfers for those features; advertising choices are described in Section 2.
+Before public service, service-specific disclosures must be finalized, including the actual contractual recipient entity and contact details, destination countries, transferred information, purposes, timing, methods, retention periods, legal grounds, and any required consent, refusal methods, and consequences. This section does not represent completion of those detailed disclosures or required consent procedures. Authentication information is transmitted over the internet when a user signs in with Google. A signed-in account's progress is transmitted over the internet to Firestore when backed up or restored. Users who do not use Google sign-in or cloud features can avoid authentication and backup transfers for those features; advertising choices are described in Section 2.
 
 ## 5. Retention and Deletion
 
@@ -159,7 +159,7 @@ Before public service, service-specific disclosures must be finalized, including
 - **Cloud game profiles:** Retained as needed to provide account-based backup and designated for deletion upon a verified deletion request or when the retention purpose ends. Uninstalling the app, signing out, or deleting one continue slot is different from deleting the entire cloud account.
 - **Authentication information:** Firebase's official information states that authentication IP logs may be retained for a few weeks, while other authentication information remains until the operator initiates deletion of the user. Removal from the provider's operational and backup systems may take up to 180 days after deletion begins. This does not mean that the game operator arbitrarily retains all information for 180 days.
 - **Advertising and consent information:** Processed for periods determined by actual SDK settings, user choices, and Google's applicable service policies. Deleting a game profile does not immediately delete every record held by an advertising provider.
-- **Inquiry records:** Retained to the extent needed to answer inquiries and handle disputes. Specific operational retention periods and procedures for deleting emails, attachments, and backups will be finalized and disclosed before public service.
+- **Inquiry records:** Emails and attachments are retained for one year after the response is completed and then deleted. If a dispute is ongoing or retention is legally required, necessary information is retained until that reason ends and then deleted. Provider-managed backups and logs follow the provider's deletion procedures.
 - Where a separate legal retention obligation applies, the relevant information, legal basis, and period will be identified, and the information will be retained separately and not used for other purposes. We do not claim to collect or retain payment records for paid purchases that are not currently offered.
 
 Electronic information designated for deletion is deleted from operational systems so that it cannot be recovered or reproduced. Provider-managed backups and logs follow the provider's deletion procedures. The full public-service backup-retention and periodic-deletion procedures have not yet been verified.
@@ -178,7 +178,7 @@ We do not state that the current app has a dedicated full-account-deletion butto
 
 ## 7. Children and Young People
 
-We do not arbitrarily designate this as a children's service or definitively classify it as an adults-only service. Target ages and regions, store ratings, age verification, parental consent, and advertising settings for children and young people must be finalized and verified before public service. Another game's age policy is not automatically applied to this game. If the service targets users who require additional protections, such as consent from a legal representative, the necessary procedures will be established first.
+The game is intended for users aged 14 and older. Store ratings and advertising settings depend on the actual distribution configuration; stating a target age does not mean that a user's age has been verified. If we learn that personal information of a child under 14 has been processed without legally required parental consent, we will take measures required by applicable law. Privacy inquiries can be sent to the email address above.
 
 ## 8. Security Measures and Audio / Assets
 
@@ -192,3 +192,4 @@ If processing purposes, information categories, providers, age policies, or othe
 
 Privacy contact: 이성진 (Lee Seong-jin) / Maybe My Studio  
 Email: [maybemyportfolio@gmail.com](mailto:maybemyportfolio@gmail.com)
+
