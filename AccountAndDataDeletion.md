@@ -1,6 +1,5 @@
 # Account and Data Deletion
 
-**ArcaneGate: Forgotten Ruins**  
 Developer: Maybe My Studio
 
 ## 계정 및 데이터 삭제 요청
