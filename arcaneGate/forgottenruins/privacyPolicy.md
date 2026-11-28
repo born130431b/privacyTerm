@@ -34,7 +34,7 @@ Maybe My Studio의 Android 게임 비전의문: 잊혀진 유적에 적용합니
 
 게스트로 플레이할 때 진행 기록, 언어, 조작 감도와 화질 설정은 기기에 저장됩니다. 계정 기능을 선택하면 Android의 Google 계정 선택기가 발급한 ID 토큰을 Firebase Authentication에 전달합니다. 게임은 Google 비밀번호를 받지 않고 ID 토큰을 게임 저장 파일이나 로그에 기록하지 않습니다. 게임의 클라우드 진행 문서에는 Firebase UID에 연결된 스테이지, 제단, 수집·퍼즐 상태, 운반물 배치, 저장 버전과 시각이 담깁니다. 이름·이메일·프로필 사진을 이 진행 문서에 복사하지 않습니다.
 
-Google의 Firebase Authentication은 인증과 계정 연속성을 위해 계정 식별자, 제공자가 전달한 계정 정보 및 IP 주소를 처리할 수 있습니다. Firebase는 Authentication 서비스를 미국에서 운영한다고 안내합니다. Cloud Firestore는 진행 동기화에, App Check와 Android Play Integrity는 앱 인증에 사용합니다. Firestore 운영 데이터베이스 리전은 아직 확정되지 않았습니다. 광고·분석·파일 업로드 SDK는 현재 구성에 포함하지 않습니다. [Firebase의 처리 및 보유 안내](https://firebase.google.com/support/privacy)
+Google의 Firebase Authentication은 인증과 계정 연속성을 위해 계정 식별자, 제공자가 전달한 계정 정보 및 IP 주소를 처리할 수 있습니다. Firebase는 Authentication 서비스를 미국에서 운영한다고 안내합니다. Cloud Firestore는 진행 동기화에, App Check와 Android Play Integrity는 앱 인증에 사용합니다. 현재 개발용 Cloud Firestore 기본 데이터베이스는 대한민국 서울(asia-northeast3)에 있습니다. 출시 시 적용되는 데이터베이스 위치는 배포 전에 확인합니다. 광고·분석·파일 업로드 SDK는 현재 구성에 포함하지 않습니다. [Firebase의 처리 및 보유 안내](https://firebase.google.com/support/privacy)
 
 ### 보유와 삭제
 
@@ -74,7 +74,7 @@ Kuwait (KW), Kyrgyzstan (KG), Tajikistan (TJ), Tanzania (TZ), Thailand (TH), Tur
 
 Guest progress, language, control sensitivity and graphics settings are stored on the device. If you choose account features, Android's Google account picker supplies an ID token for Firebase Authentication. The game never asks for your Google password or writes the token to its save files or logs. The cloud progress document under your Firebase UID contains stage and checkpoint, collected items, puzzle states, movable placements, save versions and timestamps. The game does not copy your name, email or profile photo into that document.
 
-Google's Firebase Authentication may process account identifiers, profile information supplied by your provider and IP addresses to authenticate you and maintain the account. Firebase states that its Authentication service operates in the United States. Cloud Firestore supports progress synchronization. App Check and Android Play Integrity support app verification. The production Firestore location has yet to be selected. Advertising, analytics and file-upload SDKs are absent from the current configuration. [Firebase privacy and retention](https://firebase.google.com/support/privacy)
+Google's Firebase Authentication may process account identifiers, profile information supplied by your provider and IP addresses to authenticate you and maintain the account. Firebase states that its Authentication service operates in the United States. Cloud Firestore supports progress synchronization. App Check and Android Play Integrity support app verification. The current development project stores Cloud Firestore data in its default database in Seoul, South Korea (asia-northeast3). We will verify the database location used for release before distribution. Advertising, analytics and file-upload SDKs are absent from the current configuration. [Firebase privacy and retention](https://firebase.google.com/support/privacy)
 
 ### Retention and deletion
 
@@ -114,7 +114,7 @@ Use the same email for access, correction, deletion, restriction requests or que
 
 游客进度、语言、操作灵敏度和画质设置保存在设备上。选择账号功能时，Android 的 Google 账号选择器将提供 ID 令牌，用于 Firebase Authentication 身份验证。游戏不会索取 Google 密码，也不会把令牌写入游戏存档或日志。Firebase UID 对应的云进度文档保存关卡、检查点、收集物、谜题状态、可移动物体的位置、版本和时间，不写入姓名、电子邮箱或头像。
 
-Google 的 Firebase Authentication 可处理账号标识符、登录提供方提供的资料及 IP 地址，以验证身份并维持账号。根据 Firebase 的说明，Authentication 服务在美国运行。Cloud Firestore 用于同步进度，App Check 和 Android Play Integrity 用于应用验证。运营用 Firestore 数据库区域尚未确定。当前配置未包含广告、分析或文件上传 SDK。[Firebase 隐私和保留说明](https://firebase.google.com/support/privacy)
+Google 的 Firebase Authentication 可处理账号标识符、登录提供方提供的资料及 IP 地址，以验证身份并维持账号。根据 Firebase 的说明，Authentication 服务在美国运行。Cloud Firestore 用于同步进度，App Check 和 Android Play Integrity 用于应用验证。当前开发项目的 Cloud Firestore 默认数据库位于韩国首尔（asia-northeast3）。我们将在发布前核实发布版本使用的数据库位置。当前配置未包含广告、分析或文件上传 SDK。[Firebase 隐私和保留说明](https://firebase.google.com/support/privacy)
 
 ### 保留和删除
 
@@ -154,7 +154,7 @@ Google 的 Firebase Authentication 可处理账号标识符、登录提供方提
 
 ゲストの進行状況、言語、操作感度、画質設定は端末に保存します。アカウント機能を選ぶと、Android の Google アカウント選択画面から渡された ID トークンを Firebase Authentication に送信します。ゲームは Google のパスワードを求めず、トークンをゲームのセーブファイルやログに記録しません。Firebase UID に対応するクラウド文書にはステージ、チェックポイント、収集物、パズルの状態、運搬物の配置、保存版と時刻を記録します。氏名、メールアドレス、プロフィール画像はその文書に複製しません。
 
-Google の Firebase Authentication は認証とアカウント維持のため、アカウント識別子、認証元が提供する情報、IP アドレスを処理する場合があります。Firebase は Authentication を米国で運用すると説明しています。Cloud Firestore は進行状況の同期に、App Check と Android Play Integrity はアプリの検証に使います。本番 Firestore のリージョンは未確定です。現在の構成には広告、分析、ファイルアップロードの SDK を含めていません。[Firebase のプライバシーと保持期間](https://firebase.google.com/support/privacy)
+Google の Firebase Authentication は認証とアカウント維持のため、アカウント識別子、認証元が提供する情報、IP アドレスを処理する場合があります。Firebase は Authentication を米国で運用すると説明しています。Cloud Firestore は進行状況の同期に、App Check と Android Play Integrity はアプリの検証に使います。現在の開発プロジェクトの Cloud Firestore 既定データベースは、韓国のソウル（asia-northeast3）にあります。配信前にリリース版で使用するデータベースの場所を確認します。現在の構成には広告、分析、ファイルアップロードの SDK を含めていません。[Firebase のプライバシーと保持期間](https://firebase.google.com/support/privacy)
 
 ### 保存期間と削除
 
